@@ -1,0 +1,23 @@
+{
+  "name": "contacts",
+  "version": "0.0.1",
+  "description": "access contacts/address book from Node",
+  "main": "./lib/contacts.js",
+  "dependencies": {
+    "NodObjC": "^1.0.0",
+    "bindings": "^1.2.1",
+    "debug": "^2.1.2",
+    "ref": "^0.3.5",
+    "ref-struct": "^1.0.0",
+    "vcardparser": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "contacts",
+    "address",
+    "book"
+  ],
+  "author": "Igor Alekseev",
+  "license": "MIT"
+}
