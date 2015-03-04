@@ -18,6 +18,10 @@
     "address",
     "book"
   ],
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/igoralekseev/node-contacts.git"
+  },
   "author": "Igor Alekseev",
   "license": "MIT"
 }
