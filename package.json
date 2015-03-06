@@ -7,6 +7,7 @@
     "NodObjC": "^1.0.0",
     "bindings": "^1.2.1",
     "debug": "^2.1.2",
+    "lodash": "^3.3.1",
     "ref": "^0.3.5",
     "ref-struct": "^1.0.0",
     "vcardparser": "^1.0.3"
@@ -18,7 +19,7 @@
     "address",
     "book"
   ],
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/igoralekseev/node-contacts.git"
   },
